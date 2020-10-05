@@ -1,5 +1,7 @@
 # Galgje
 
+gedaan door timo en aidan
+
 ## Te raden woord
 
 |s|u|p|e|r|
